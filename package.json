@@ -1,0 +1,17 @@
+{
+  "name": "sockittome",
+  "version": "0.0.1-alpha",
+  "description": "A micro example socket.io chat server",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Bell <jonathanbell.ca@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "socket.io": "^3.1.1",
+    "socket.io-client": "^3.1.1",
+    "uuid": "^9.0.0"
+  }
+}
